@@ -1,0 +1,1 @@
+ssh -N -L 8888:127.0.0.1:80 -i /Users/rob/.ssh/gadget-clinic-default.pem bitnami@18.168.90.222
